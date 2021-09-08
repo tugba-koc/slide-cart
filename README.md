@@ -1,4 +1,4 @@
-# [Live Demo] (https://61388be537bb740008a2afc6--kind-goldwasser-74ba80.netlify.app/)
+[Live Demo] (https://61388be537bb740008a2afc6--kind-goldwasser-74ba80.netlify.app/)
 
 
 ## Getting Started with Create React App
