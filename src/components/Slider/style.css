@@ -1,0 +1,44 @@
+.slider-main {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  padding: 30px;
+}
+
+.disabled {
+  opacity: 0.65;
+  cursor: no-drop;
+  margin: 0 20px;
+  border-radius: 10px;
+  border: 0;
+  font-size: 20px;
+  color: rgb(174, 212, 223);
+  transition: 0.3s linear;
+  padding: 15px 15px 11px 15px;
+}
+
+.button {
+  background-color: #e7e7e791;
+  margin: 0 20px;
+  border-radius: 10px;
+  border: 0;
+  font-size: 25px;
+  color: rgb(110, 199, 221);
+  transition: ease-in 0.3s;
+  padding: 15px 15px 11px 15px;
+  cursor: pointer;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.button:hover {
+  background-color: rgb(110, 199, 221);
+  color: white;
+}
+
+.cart-main {
+  display: flex;
+  margin-left: auto;
+  align-items: center;
+  flex-direction: column;
+}
