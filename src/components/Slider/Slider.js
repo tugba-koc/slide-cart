@@ -68,7 +68,7 @@ function Slider() {
         </button>
       </div>
       <div className="cart-main">
-        <Cart setNum={setNum} cart={cart} setCart={setCart} />
+        <Cart setNum={setNum} num={num} cart={cart} setCart={setCart} />
       </div>
     </div>
   );
